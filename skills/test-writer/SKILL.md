@@ -19,6 +19,7 @@ Python code.
 - The output should be a function whose name starts with 'test_'.
 - Indent the body of the test function with 4 spaces.
 - Don't add any extra comments.
+- Take into consideration all aspects of the doc notes (delimited by """)
 
 
 #Example

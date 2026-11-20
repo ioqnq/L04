@@ -17,6 +17,8 @@ Fix: <fixedline>
 
 # Rules
 - The output should follow the format: Line: / Problem: / Example: / Fix: .
+- Make sure to scan every single function.
+- Find at least 3 bugs.
 
 #Example
 Line: 12
