@@ -19,7 +19,6 @@ Fix: <fixedline>
 - The output should follow the format: Line: / Problem: / Example: / Fix: .
 - Make sure to scan every single function.
 - Find at least 3 bugs.
-- Make sure for the password test that the password that it's testing against contains at least one digit.
 
 #Example
 Line: 12
